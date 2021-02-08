@@ -6,4 +6,7 @@ master.window  = tk.Window()
 def test()
      print("Test")
 
+print("test")
+
 window.mainloop
+
