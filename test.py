@@ -1,12 +1,13 @@
+# Python tkinter hello world program
+
 import tkinter as tk
-import time
 
-master.window  = tk.Window()
+print("CoNsOlE!")
 
-def test()
-     print("Test")
+window = tk.Tk()
 
-print("test")
+lbl_Hello = tk.Label(window, text="Hello World!")
+lbl_Hello.pack()
 
-window.mainloop
+window.mainloop()
 
